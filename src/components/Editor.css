@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(132, 46, 193);
+}
+
+h3{
+    color: white;
+    font-size: xx-large;
+    
+
+}
+
+.input-text{
+    outline: none;
+    background-color: gray;
+    border: 3px solid rgb(86, 86, 86);
+    height: 400px;
+    width: 600px;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.output-text{
+    box-shadow: 10px 10px 5px lavender;
+    border-radius: 5px;
+    background-color: gray;
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    overflow-wrap: break-word;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+
+}
+
+
